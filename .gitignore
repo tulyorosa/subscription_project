@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Virtual environment
+venv/
+
+# DuckDB database file (pode ser recriado)
+*.duckdb
+
+# Logs
+*.log
+git add .gitignore
+git commit -m "add .gitignore"
+git push
