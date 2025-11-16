@@ -1,4 +1,4 @@
-# 📊 Subscription Analytics Pipeline (DuckDB + Python + Power BI)
+# Subscription Analytics Pipeline (DuckDB + Python + Power BI)
 
 Este projeto demonstra a construção completa de um pipeline de dados
 moderno usando **DuckDB**, **Python**, **SQL** e **Power BI**, aplicando
@@ -12,7 +12,7 @@ BI.
 
 ------------------------------------------------------------------------
 
-## 📦 **Arquitetura do Projeto**
+## **Arquitetura do Projeto**
 
     subscription_project/
     │
@@ -36,19 +36,19 @@ BI.
 
 ------------------------------------------------------------------------
 
-## 🧱 **Arquitetura Medallion**
+## **Arquitetura Medallion**
 
-### 🟫 Bronze
+### Bronze
 
-### 🟪 Silver
+### Silver
 
-### 🟨 Gold
+### Gold
 
-### 🔄 Incremental MERGE
+### Incremental MERGE
 
 ------------------------------------------------------------------------
 
-## ⚙️ Como Rodar
+## Como Rodar
 
 ``` bash
 python run_pipeline.py
@@ -56,7 +56,7 @@ python run_pipeline.py
 
 ------------------------------------------------------------------------
 
-## 📊 Power BI
+## Power BI
 
 -   Importação
 -   Transformações
@@ -66,12 +66,12 @@ python run_pipeline.py
 
 ------------------------------------------------------------------------
 
-## 🧠 Tecnologias
+## Tecnologias
 
 DuckDB, Python, SQL, Power BI.
 
 ------------------------------------------------------------------------
 
-## 🙋‍♂️ Autor
+## Autor
 
 Tulyo Rosa
