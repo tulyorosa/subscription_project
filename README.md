@@ -39,12 +39,12 @@ BI.
 ## **Arquitetura Medallion**
 
 ### Bronze
+Armazena os dados brutos exatamente como chegam da fonte, com mínima transformação e foco em preservação histórica.
 
 ### Silver
-
+Padroniza, limpa e enriquece os dados da camada Bronze, aplicando regras de qualidade e preparando-os para modelagem.
 ### Gold
-
-### Incremental MERGE
+Modela os dados em estruturas analíticas (fatos e dimensões), criando métricas e tabelas prontas para consumo em dashboards e análises de negócio.
 
 ------------------------------------------------------------------------
 

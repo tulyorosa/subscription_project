@@ -13,6 +13,6 @@ venv/
 
 # Logs
 *.log
-git add .gitignore
-git commit -m "add .gitignore"
-git push
+
+# General
+playground_sql.py
